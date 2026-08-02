@@ -1,2 +1,2 @@
-# proyecto-lista-de-estudiantes
+# reto_lista_estudiante
 estudiantes
