@@ -1,2 +1,2 @@
-# reto_lista_estudiante
+# RETO_LISTA_DE_ESTIDIANTES
 estudiantes
